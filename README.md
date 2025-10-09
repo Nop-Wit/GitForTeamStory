@@ -15,11 +15,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![knight](img/knight.png)
    He was given a mission to eliminate **pirates**.
    After successfully eliminating them,he investigated and found a **map**.  
-   ![map](img/map.png)
+   ![pirates](img/pirates.png)![map](img/map.png)
 
 
 2.He couldn't decipher the map.He went to the **castle** to have the **wizard** decipher it. 
-   ![wizard](img/wizard.png)
+   ![castle](img/castle.png)![wizard](img/wizard.png)
 
 3. The wizard interpreted the map and translated as **There has a hidden Treasure.**<br>
 
@@ -28,11 +28,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    <br>The knight is the winner, and they acquired a **small treasure** from eliminated.<br>
    ![treasure_small](img/treasure_small.png)<br>
 
-5. Then the brave **knight** walked into a dark.   Suddenly, a **dragon** appeared! 
-   ![dragon](img/dragon.png)
+5. Then the brave **knight** walked into a dark.   Suddenly, a **dragon** appeared! <br>
+   ![dragon](img/dragon.png) <br>
 
-   The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
-   ![treasure large](img/treasure_large.png)   
+   The knight fought hard and defeated the dragon. It dropped a **big treasure chest**. <br>  
+   ![treasure large](img/treasure_large.png) <br> 
 
 6. Just as the knight tried to take the treasure, a **ghost** appeared and cast a dream spell. 
    The knight fell asleep, dreaming of dreaming of himself becoming a scientist.   
