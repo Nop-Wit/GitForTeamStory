@@ -30,10 +30,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 3. The wizard interpreted the map and translated as **There has a hidden Treasure.**<br>
 
-4. During went to find a treasure, the knight found with **ogre** and them fighted together.
+4. During went to find a treasure, the knight found with **ogre** and them fighted together.<br>
    ![ogre](img/ogre.png)
-   The knight is the winner, and they acquired a **small treasure** from eliminated.
-   ![treasure_small](img/treasure_small.png)
+   <br>The knight is the winner, and they acquired a **small treasure** from eliminated.<br>
+   ![treasure_small](img/treasure_small.png)<br>
 
 5. Then the brave **knight** walked into a dark. Suddenly, a **dragon** appeared! 
 The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
