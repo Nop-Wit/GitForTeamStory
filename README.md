@@ -8,7 +8,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. วิรากร ธนบัตร 6809617415
 3. วรเศรษฐ์ จรัสจารุทัศน์ 6809167399
 4. ณพวุฒิ วิทยากุล 6809681429
-
+5. รมณ ประภาพรสุข 6809617332
 "
 ## Our Wonderful Story
 
@@ -39,9 +39,16 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    The knight fell asleep, dreaming of dreaming of himself becoming a scientist.   
    ![ghost](img/ghost.png)  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. He dreamed that he had become a **scientist** stationed on a **rocket**.
+Suddenly, the ship began to shake as an **alien** appeared before him.
+![scientist](img/scientist.png)
+![rocket](img/rocket.png)
+![alien](img/alien.png)
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. At that moment, a mysterious **detective** emerged and stood in front of him, saying,
+“If you wish to escape this dream… you must find the cat that hides within.”
+Then the detective slowly vanished together with the alien, leaving the scientist alone in silence.
+![detective](img/detective.png)
 
 9. At last, he finally found a little cat wandering in the mist. The moment he touched it, the dream began to fade away, and he could finally escape from that strange world.
 ![cat](img/cat.png) 
