@@ -4,16 +4,16 @@ This is the starting draft of your team’s story.
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
 
 ---
-"มีอัศวิน คนนึง
-ได้รับภารกิจ กำจัด pirate drop map 
-ไปที่ castle เพื่อให้ wizard แปลความ map
-แปลความได้ว่า มี treasure ซ่อนอยู่ 
-ระหว่างทางไปหา เจอ ogre kill drop treasure_small
-ไปต่อเจอ dragon kill drop treasure_large
- เจอ ghost โดนผีร่ายมน ฝัน
-ฝันว่าเป็น scientist ที่อยู่บนrocket แล้วเจอ alien
-เจอ detective บอกว่าถ้าอยากออกฝัน ให้หาแมวให้เจอ 
-พอเจอแล้ว ออกฝันได้ treasure_open ได้สมบัตของจิงละ
+1.มีอัศวิน คนนึงได้รับภารกิจ กำจัด pirate drop map 
+2.ไปที่ castle เพื่อให้ wizard แปลความ map
+3.แปลความได้ว่า มี treasure ซ่อนอยู่ 
+4.ระหว่างทางไปหา เจอ ogre kill drop treasure_small
+5.ไปต่อเจอ dragon kill drop treasure_large
+6.เจอ ghost โดนผีร่ายมน ฝัน
+7.ฝันว่าเป็น scientist ที่อยู่บนrocket แล้วเจอ alien
+8.เจอ detective บอกว่าถ้าอยากออกฝัน ให้หาแมวให้เจอ 
+9.พอเจอแล้ว ออกฝันได้ treasure_open ได้สมบัตของจิงละ
+10.End
 
 "
 ## Our Wonderful Story
