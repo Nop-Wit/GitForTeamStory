@@ -9,7 +9,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. วรเศรษฐ์ จรัสจารุทัศน์ 6809167399
 4. ณพวุฒิ วิทยากุล 6809681429
 5. รมณ ประภาพรสุข 6809617332
-"
+
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **knight**.
