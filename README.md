@@ -38,7 +38,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 8. The cat was supposed to talk here, but the line is missing.  
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. At last, he finally found a little cat wandering in the mist. The moment he touched it, the dream began to fade away, and he could finally escape from that strange world.
+![cat](img/cat.png) 
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. As he opened his eyes, a shining treasure box appeared before him. Slowly, he lifted the lid — and inside were glittering jewels and sparkling gems that shone like stars. And that was the end of his mysterious journey. **The End**.
+![treasure close](img/treasure_large.png)
+![treasure open](img/treasure_open.png)
