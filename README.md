@@ -18,11 +18,15 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 "
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **knight**.  
+1. Once upon a time, there was a **knight**.
    ![knight](knight.png)
+   He was given a mission to eliminate **pirates**.
+   After successfully eliminating them,he investigated and found a **map**.  
+   ![map](map.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+
+2.He couldn't decipher the map.He went to the **castle** to have the **wizard** decipher it. 
+   ![wizard](wizard.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
