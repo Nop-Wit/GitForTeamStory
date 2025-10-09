@@ -29,10 +29,13 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. The brave **knight** walked into a dark cave. Suddenly, a **dragon** appeared! 
+The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
+![dragon](images/dragon.png) ![treasure large](images/treasure_large.png)   
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. Just as the knight tried to take the treasure, a **ghost** appeared and cast a dream spell. 
+The knight fell asleep, dreaming of dreaming of himself becoming a scientist.   
+![ghost](images/ghost.png)  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
