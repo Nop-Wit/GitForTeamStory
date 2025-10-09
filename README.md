@@ -36,8 +36,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![treasure_small](img/treasure_small.png)
 
 5. Then the brave **knight** walked into a dark. Suddenly, a **dragon** appeared! 
+![dragon](img/dragon.png)
 The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
-![dragon](img/dragon.png) ![treasure large](img/treasure_large.png)   
+![treasure large](img/treasure_large.png)   
 
 6. Just as the knight tried to take the treasure, a **ghost** appeared and cast a dream spell. 
 The knight fell asleep, dreaming of dreaming of himself becoming a scientist.   
