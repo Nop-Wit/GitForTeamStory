@@ -29,7 +29,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. The brave **knight** walked into a dark cave. Suddenly, a **dragon** appeared! 
+5. Then the brave **knight** walked into a dark. Suddenly, a **dragon** appeared! 
 The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
 ![dragon](images/dragon.png) ![treasure large](images/treasure_large.png)   
 
