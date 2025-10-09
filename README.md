@@ -24,10 +24,12 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The wizard interpreted the map and translated as **There has a hidden Treasure.**<br>
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. During went to find a treasure, the knight found with **ogre** and them fighted together.
+   ![ogre](img/ogre.png)
+   The knight is the winner, and they acquired a **small treasure** from eliminated.
+   ![treasure_small](img/treasure_small.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
