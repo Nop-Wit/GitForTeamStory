@@ -16,7 +16,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![knight](img/knight.png)
    He was given a mission to eliminate **pirates**.
    After successfully eliminating them,he investigated and found a **map**.  
-   ![pirates](img/pirates.png)![map](img/map.png)
+   ![pirates](img/pirate.png)![map](img/map.png)
 
 
 2.He couldn't decipher the map.He went to the **castle** to have the **wizard** decipher it. 
