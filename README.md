@@ -5,7 +5,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ---
 1. นภัสนันท์ วัฒนจิรพันธุ์ 6809681445
-2. 
+2. วิรากร ธนบัตร 6809617415
+3.
 
 "
 ## Our Wonderful Story
