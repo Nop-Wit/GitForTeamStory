@@ -18,21 +18,31 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 "
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **knight**.  
-   ![knight](knight.png)
+1. Once upon a time, there was a **knight**.
+   ![knight](img/knight.png)
+   He was given a mission to eliminate **pirates**.
+   After successfully eliminating them,he investigated and found a **map**.  
+   ![map](img/map.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+2.He couldn't decipher the map.He went to the **castle** to have the **wizard** decipher it. 
+   ![wizard](img/wizard.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+3. The wizard interpreted the map and translated as **There has a hidden Treasure.**<br>
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+4. During went to find a treasure, the knight found with **ogre** and them fighted together.<br>
+   ![ogre](img/ogre.png)
+   <br>The knight is the winner, and they acquired a **small treasure** from eliminated.<br>
+   ![treasure_small](img/treasure_small.png)<br>
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+5. Then the brave **knight** walked into a dark. Suddenly, a **dragon** appeared! 
+![dragon](img/dragon.png)
+The knight fought hard and defeated the dragon. It dropped a **big treasure chest**.  
+![treasure large](img/treasure_large.png)   
+
+6. Just as the knight tried to take the treasure, a **ghost** appeared and cast a dream spell. 
+The knight fell asleep, dreaming of dreaming of himself becoming a scientist.   
+![ghost](img/ghost.png)  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
